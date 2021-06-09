@@ -1,3 +1,2 @@
 #!/bin/bash
-# Heading level 1
-echo "Holberton"
+echo "holbertonschool-sysadmin_devops/0x00-shell_basics" >> README.md 
