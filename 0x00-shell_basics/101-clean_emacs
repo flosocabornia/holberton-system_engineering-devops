@@ -1,2 +1,2 @@
 #!/bin/bash
-rm *.[~] /tmp/
+find ./ -name '*~' | xargs rm
