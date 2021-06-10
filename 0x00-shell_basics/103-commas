@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a -d /0x00-shell_basics/
+ls -pma /holberton-system_engineering-devops/0x00-shell_basics
